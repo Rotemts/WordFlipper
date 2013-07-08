@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="half_letter_width">10dp</dimen>
+    <dimen name="half_letter_height">10dp</dimen>
+    <dimen name="flipper_radius">2dp</dimen>
+    <dimen name="margin">1dp</dimen>
+
+</resources>
